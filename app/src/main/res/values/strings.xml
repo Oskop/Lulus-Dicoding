@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeepLearningNetwork</string>
+    <string name="email">oskop17@gmail.com</string>
+    <string name="my_name">Mokhamad Wijaya</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="nick_name">sebutan</string>
+    <string name="major">Bidang</string>
+    <string name="use">Kegunaan</string>
+    <string name="detail">Detail Network</string>
+    <string name="ic_prof">Profile</string>
+</resources>
